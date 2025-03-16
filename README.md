@@ -2,7 +2,7 @@
 <h3 align="center">"Turning Ideas 💡 into Reality with Code and a Love for AI 🤖"</h3>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/002/993/866/large_2x/a-man-working-on-laptop-to-development-web-coding-and-apps-free-vector.jpg" alt="Coding Illustration" width="400" />
+  <img src="[https://static.vecteezy.com/system/resources/previews/002/993/866/large_2x/a-man-working-on-laptop-to-development-web-coding-and-apps-free-vector.jpg](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)" alt="Coding Illustration" width="400" />
 </p>
 
 <p align="center">
