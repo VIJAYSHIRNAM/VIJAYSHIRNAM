@@ -143,9 +143,3 @@
 
 ### 🔥 Fun Fact:
 "I once automated my morning coffee routine using Python and a Raspberry Pi! ☕🤖"
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VIJAYSHIRNAM/VIJAYSHIRNAM/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
